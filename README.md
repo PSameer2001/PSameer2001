@@ -5,6 +5,15 @@
 - 📫 How to reach me linkedin.com/in/sameer-panigrahi-85a736228
 - ⚡ Hobbies: Coding, Playing Cricket and Video Games
 
+<h2>
+  <i><b>Repositories</b></i>
+</h2>
+<ul>
+  <li><h4><b>E-Store</b></h4></li>
+   <li><h4><b>Link: <a href="https://e-store-in.netlify.app">Website</a></b></h4></li>
+   <li><h4><b>Github Repo: <a href="https://github.com/PSameer2001/E-Store"> Repo link </b></h4></li>
+</ul>
+
 <!---
 PSameer2001/PSameer2001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

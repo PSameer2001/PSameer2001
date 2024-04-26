@@ -9,9 +9,9 @@
   <i><b>Repositories</b></i>
 </h2>
 <ul>
-  <li><h4><b>E-Store</b></h4><br>
-   &nbsp;&nbsp;&nbsp;<h4><b>Link: <a href="https://e-store-in.netlify.app">Website</a></b></h4><br>
-   &nbsp;&nbsp;&nbsp;<h4><b>Github Repo: <a href="https://github.com/PSameer2001/E-Store"> Repo link </b></h4><br>
+  <li><h4><b>E-Store</b></h4>
+   <h4><b>Link: <a href="https://e-store-in.netlify.app">Website</a></b></h4>
+  <h4><b>Github Repo: <a href="https://github.com/PSameer2001/E-Store"> Repo link </b></h4>
 </ul>
 
 <!---

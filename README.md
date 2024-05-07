@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sameer Panigrahi
 - 👀 I’m a Software Developer
-- 🌱 I’m currently interested in working on MERN Stack
+- 🌱 I’m currently interested in working on Backend Development
 - 💞️ I’m looking to collaborate on development project
 - 📫 How to reach me linkedin.com/in/sameer-panigrahi-85a736228
 - ⚡ Hobbies: Coding, Playing Cricket and Video Games
